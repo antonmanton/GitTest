@@ -1076,7 +1076,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400012, guid: b3c24f0fb86204e40a6cd1a95019f8d5, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: b3c24f0fb86204e40a6cd1a95019f8d5, type: 2}
       propertyPath: m_RootOrder
@@ -1088,7 +1088,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400018, guid: b3c24f0fb86204e40a6cd1a95019f8d5, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400014, guid: b3c24f0fb86204e40a6cd1a95019f8d5, type: 2}
       propertyPath: m_RootOrder
@@ -2544,7 +2544,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   uiManager: {fileID: 1973549489}
   moveRange: 1
-  canMoveDiagonal: 0
+  canMoveDiagonal: 1
   battleGrid: {fileID: 1201285264}
   characters:
   - {fileID: 1099444996}
