@@ -2543,7 +2543,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   uiManager: {fileID: 1973549489}
-  moveRange: 1
+  moveRange: 7
   canMoveDiagonal: 1
   battleGrid: {fileID: 1201285264}
   characters:
